@@ -1,0 +1,12 @@
+.btn_default {
+    display: block;
+    margin: 1rem 0;
+    padding: 5px 8px;
+    font-weight: bold;
+    border-radius: 8px; 
+    color: var(--btn_default-color);
+    border-color: var(--btn_default-bordColor);
+    background-color: var(--btn_default-bg-color);
+    box-shadow: 1px 1px 1px var(--btn_default-shadow-color);
+}
+.btn_default:hover {box-shadow: none;}

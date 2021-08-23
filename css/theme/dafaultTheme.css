@@ -1,0 +1,13 @@
+:root {
+    --inicio_color          : #f5f5f5;
+    --bady_bg-color         : #171010;
+    --footer_color          : #f5f5f5;
+    --main_bg-color         : #2B2B2B;
+    --main_shadow-color     : #f5f5f5;
+    --btn_default-color     : #ffffff;
+    --btn_default-bordColor : #1d1b1bc9;
+    --btn_default-bg-color  : #443636;
+    --btn_default-shadow-color : #ffffff;
+    --label_color           : #f5f5f5;
+    --number_bord-color     : #ccccccbd;
+}

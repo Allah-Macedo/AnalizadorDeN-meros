@@ -1,0 +1,10 @@
+html ,body {height: 100%;}
+
+body {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   flex-direction: column;
+   font-family: 'Rubik', sans-serif;
+   background-color: var(--bady_bg-color);
+}

@@ -1,0 +1,9 @@
+.main {
+    width: 100%;
+    max-width: 250px;
+    padding: 1em;
+    border-radius: 8px;
+    background-color: var(--main_bg-color); 
+    box-shadow: 1px 1px 5px var(--main_shadow-color);
+}
+/*rgb(36, 36, 37);

@@ -1,0 +1,11 @@
+.label {
+    display: block;
+    color: var(--label_color);
+}
+
+.number {
+    margin: .4rem 0;
+    padding: 4px 0 4px 4px;
+    outline: none;
+    border-color: var(--number_bord-color);
+}
